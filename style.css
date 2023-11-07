@@ -1,0 +1,26 @@
+table{
+    margin: auto;
+    width: 1200px;
+    
+}
+ th,td{
+    background-color: #e7e7e7;
+    border-collapse: collapse;
+    border-bottom: .5px solid #fff;
+    
+    text-align: left;
+    height: 40px;
+    vertical-align:center ;
+    
+  
+}
+img{
+    width: 30px;
+}
+.img-box{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
